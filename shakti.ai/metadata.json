@@ -1,0 +1,11 @@
+{
+  "name": "SHAKTI.AI",
+  "description": "A warm, intelligent AI assistant and learning companion for women in India\u0027s informal workforce.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
